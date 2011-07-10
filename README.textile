@@ -12,7 +12,7 @@ pupu install botanicus/autocompleter
 
 h1. About TwitterGitter
 
-This pupu is based on "David Walsh":http://davidwalsh.name/mootools-twitter-plugin.
+This pupu is based on "David Walsh's TwitterGitter":http://davidwalsh.name/mootools-twitter-plugin.
 
 h1. Usage
 
